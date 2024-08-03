@@ -1,2 +1,2 @@
 # DeepCompression
-Experiments form paper "Euclidean distance compression via deep random features"
+Experiments from the paper "Euclidean distance compression via deep random features"
